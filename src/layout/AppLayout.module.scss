@@ -1,0 +1,19 @@
+.navbar {
+  background-color: #0e0e1a;
+}
+
+.logo {
+  width: 40px;
+}
+
+.menu_items {
+  a {
+    margin-left: 2rem;
+    color: #c07d5b;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  &:hover {
+    color: white;
+  }
+}

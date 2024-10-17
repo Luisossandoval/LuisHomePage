@@ -3,13 +3,13 @@ import { Routes, Route } from "react-router-dom";
 import AppLayout from "./layout/AppLayout";
 import Homepage from "./pages/Homepage/Homepage";
 import Biography from "./pages/Biography/Biography";
+import NotFoundPage from "./pages/NotFoundPage/NotFoundPage";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "./style.scss";
 import Repertoire from "./pages/Repertoire/Repertoire";
 import Schedule from "./pages/Schedule/Schedule";
 import Videos from "./pages/Videos/Videos";
 import Contact from "./pages/Contact/Contact";
-import NotFoundPage from "./pages/NotFoundPage/NotFoundPage";
-import "bootstrap/dist/css/bootstrap.min.css";
-import "./style.scss";
 
 function App() {
   return (
