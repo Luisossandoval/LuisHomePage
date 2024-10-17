@@ -10,11 +10,7 @@ const AppLayout = () => {
   return (
     <div>
       {["md"].map((expand) => (
-        <Navbar
-          key={expand}
-          expand={expand}
-          className={`mb-3 ${styles.navbar}`}
-        >
+        <Navbar key={expand} expand={expand} className={styles.navbar}>
           <Container>
             <Navbar.Brand href='/'>
               <img
