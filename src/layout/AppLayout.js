@@ -30,7 +30,10 @@ const AppLayout = () => {
               placement='end'
             >
               <Offcanvas.Header closeButton>
-                <Offcanvas.Title id={`offcanvasNavbarLabel-expand-${expand}`}>
+                <Offcanvas.Title
+                  id={`offcanvasNavbarLabel-expand-${expand}`}
+                  className={styles.menu_side_tit}
+                >
                   Luis Olivares Sandoval
                 </Offcanvas.Title>
               </Offcanvas.Header>
