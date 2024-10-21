@@ -1,11 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap");
-@import url("https://use.typekit.net/fsk1ncm.css");
-@import url("https://use.typekit.net/fsk1ncm.css");
+@import url("https://use.typekit.net/czp8mou.css");
 
 :root {
   --title-font-family: "krul", sans-serif;
-  --point-font-family: "questa-grande", serif;
-  --point-font-weight: 500;
+  --subtitle-font-family: "questa-grande", serif;
+  --subtitle-font-weight: 500;
+  --subtitle-font-color: white;
+  --subtitle-font-size: 32px;
+  --point-font-size: 18px;
+  --point-font-weight: 700;
 }
 
 body {
