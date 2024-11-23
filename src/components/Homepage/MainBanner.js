@@ -14,7 +14,24 @@ export const MainBanner = () => {
             <br />
             Sandoval
           </Col>
-          <Col md={6}>ddd</Col>
+          <Col md={6}>
+            <div className={styles.mainbanner_img_wrap}>
+              <div className={styles.mainbanner_images}>
+                <div className={`${styles.img_roll} ${styles.bn_img_01}`}>
+                  <img
+                    src='./images/mainpage/main_banner01.png'
+                    alt="Louis's performance photos"
+                  />
+                </div>
+                <div className={`${styles.img_roll} ${styles.bn_img_02}`}>
+                  <img
+                    src='./images/mainpage/main_banner02.png'
+                    alt="Louis's performance photos"
+                  />
+                </div>
+              </div>
+            </div>
+          </Col>
         </Row>
       </Container>
     </div>

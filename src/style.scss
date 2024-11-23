@@ -34,3 +34,19 @@ body {
 .offcanvas {
   background-color: #0e0e1a;
 }
+
+.swiper-pagination-bullet {
+  width: 14px;
+  height: 14px;
+  background-color: #e0cabe;
+}
+
+.swiper-pagination-bullet-active {
+  background: #a1552f;
+}
+
+.swiper-slide {
+  img {
+    width: 100%;
+  }
+}
