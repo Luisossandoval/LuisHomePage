@@ -121,6 +121,71 @@
   }
 }
 
+.main_contact {
+  padding: 100px 0 160px;
+  background-color: #ecf0f3;
+  text-align: center;
+  h1 {
+    padding-bottom: 50px;
+    font-family: var(--subtitle-font-family);
+    font-weight: var(--subtitle-font-weight);
+    color: var(--point-font-color);
+    font-size: var(--subtitle-font-size);
+  }
+  h3 {
+    font-size: var(--point-font-size);
+    font-weight: var(--point-font-weight);
+  }
+  .form_wrap {
+    padding-left: 2rem;
+    .form {
+      display: flex;
+      flex-direction: column;
+      text-align: start;
+      label {
+        margin-bottom: 5px;
+        font-size: 16px;
+        font-weight: 700;
+      }
+      input {
+        padding: 15px 0 15px 10px;
+        margin-bottom: 20px;
+        border: 0;
+        outline: 0;
+        border-radius: 0.3rem;
+      }
+      textarea {
+        padding: 15px 0 15px 10px;
+        border: 0;
+        outline: 0;
+        border-radius: 0.3rem;
+      }
+      .btn_send {
+        padding: 15px 0;
+        margin-top: 40px;
+        font-size: 18px;
+        font-weight: 700;
+        text-align: center;
+        outline: 0;
+        border: 1px solid #707070;
+        border-radius: 0.3em;
+        background: #ecf0f3;
+      }
+    }
+    .message_popup {
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      padding: 2em;
+      background-color: white;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+      text-align: center;
+    }
+  }
+}
+
 @keyframes slideToDown {
   100% {
     transform: translate3d(0, -50%, 0);
