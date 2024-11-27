@@ -11,26 +11,50 @@ export const MainMyGallery = () => {
     {
       name: "../../images/mainpage/main_gallery_01.png",
       alt: "photo name",
+      title: "Idomeneo",
+      artist: "Wolfgang Amadeus Mozart",
     },
     {
       name: "../../images/mainpage/main_gallery_02.png",
       alt: "photo name",
+      title: "L'étoile",
+      artist: "Emmanuel Chabrier",
     },
     {
       name: "../../images/mainpage/main_gallery_03.png",
       alt: "photo name",
+      title: "Die Zauberflöte",
+      artist: "Wolfgang Amadeus Mozart",
     },
     {
       name: "../../images/mainpage/main_gallery_04.png",
       alt: "photo name",
+      title: "Jenůfa",
+      artist: "Leoš Janáček",
     },
     {
-      name: "../../images/mainpage/main_gallery_01.png",
+      name: "../../images/mainpage/main_gallery_05.png",
       alt: "photo name",
+      title: "Maometto II",
+      artist: "Gioachino Rossini",
     },
     {
-      name: "../../images/mainpage/main_gallery_02.png",
+      name: "../../images/mainpage/main_gallery_06.png",
       alt: "photo name",
+      title: "Der Fliegender Holländer",
+      artist: "Richard Wagner",
+    },
+    {
+      name: "../../images/mainpage/main_gallery_07.png",
+      alt: "photo name",
+      title: "Macbeth",
+      artist: "Giuseppe Verdi",
+    },
+    {
+      name: "../../images/mainpage/main_gallery_08.png",
+      alt: "photo name",
+      title: "Tosca",
+      artist: "Giacomo Puccini ",
     },
   ];
   return (
@@ -50,7 +74,13 @@ export const MainMyGallery = () => {
           {galleryList.map((gallery) => {
             return (
               <SwiperSlide>
-                <img src={gallery.name} alt={gallery.alt} />
+                <div>
+                  <img src={gallery.name} alt={gallery.alt} />
+                </div>
+                <div className={styles.gallery_name}>
+                  <h4>{gallery.title}</h4>
+                  <span>{gallery.artist}</span>
+                </div>
               </SwiperSlide>
             );
           })}
