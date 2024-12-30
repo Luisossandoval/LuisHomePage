@@ -11,7 +11,7 @@ export const ComVideos = ({ name, id, url }) => {
         <div className={styles.thumb_img}>
           <img src={url} alt={name} />
         </div>
-        <h3>{name}</h3>
+        <h3 className={styles.video_name}>{name}</h3>
       </div>
       <Modal
         size='lg'
