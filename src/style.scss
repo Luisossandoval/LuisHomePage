@@ -55,3 +55,9 @@ body {
     width: 100%;
   }
 }
+
+@media only screen and (max-width: 767px) {
+  .swiper {
+    padding-bottom: 9rem;
+  }
+}

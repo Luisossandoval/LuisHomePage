@@ -63,13 +63,23 @@ export const MainMyGallery = () => {
         <h1>My Gallery</h1>
         <Swiper
           spaceBetween={50}
-          slidesPerView={4}
+          slidesPerView={2}
           onSlideChange={() => console.log("slide change")}
           onSwiper={(swiper) => console.log(swiper)}
           pagination={{
             clickable: true,
           }}
           modules={[Pagination]}
+          breakpoints={{
+            768: {
+              slidesPerView: 3,
+              spaceBetween: 40,
+            },
+            1024: {
+              slidesPerView: 4,
+              spaceBetween: 50,
+            },
+          }}
         >
           {galleryList.map((gallery) => {
             return (

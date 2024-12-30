@@ -8,11 +8,9 @@ export const MainBanner = () => {
       <Container>
         <Row>
           <Col md={6} className={styles.title}>
-            Luis
-            <br />
-            Olivares
-            <br />
-            Sandoval
+            <span>Luis</span>
+            <span>Olivares</span>
+            <span>Sandoval</span>
           </Col>
           <Col md={6}>
             <div className={styles.mainbanner_img_wrap}>

@@ -51,7 +51,7 @@ export const MainContact = () => {
         <h3>Contact me</h3>
         <h1>My Contact</h1>
         <Row>
-          <Col md={5}></Col>
+          <Col md={5}>email: Luis</Col>
           <Col md={7}>
             <div className={styles.form_wrap}>
               <form className={styles.form} ref={form} onSubmit={onSendForm}>

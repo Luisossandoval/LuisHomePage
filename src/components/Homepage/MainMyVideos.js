@@ -7,13 +7,13 @@ export const MainMyVideos = () => {
   const videoList = [
     {
       name: "video1",
-      id: "xlzPVcccz1g",
-      imgUrl: "./images/mainpage/main_video01.png",
+      id: "KZI1Fy6QIIY",
+      imgUrl: "./images/mainpage/main_videos_01.png",
     },
     {
       name: "video2",
-      id: "R1miFTDzghI",
-      imgUrl: "./images/mainpage/main_video01.png",
+      id: "bPwd4grojsw",
+      imgUrl: "./images/mainpage/main_videos_02.png",
     },
   ];
   return (

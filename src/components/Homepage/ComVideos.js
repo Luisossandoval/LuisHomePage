@@ -8,7 +8,9 @@ export const ComVideos = ({ name, id, url }) => {
   return (
     <div>
       <div onClick={() => setLgShow(true)} className={styles.video_list}>
-        <img src={url} alt={name} />
+        <div className={styles.thumb_img}>
+          <img src={url} alt={name} />
+        </div>
         <h3>{name}</h3>
       </div>
       <Modal
