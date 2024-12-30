@@ -56,6 +56,31 @@ body {
   }
 }
 
+.modal-body {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+  div {
+    height: 100%;
+  }
+}
+
+.modal-body.modal_gallery {
+  aspect-ratio: unset;
+  .modal_gallery_btn {
+    display: flex;
+    justify-content: center;
+    margin: 1.5rem auto;
+    button {
+      background: #1b1b26;
+      margin: 0 0.5rem;
+      min-width: 92px;
+    }
+    &:disabled {
+      background: #9999;
+    }
+  }
+}
+
 @media only screen and (max-width: 767px) {
   .swiper {
     padding-bottom: 9rem;

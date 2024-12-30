@@ -14,10 +14,11 @@ export const ComVideos = ({ name, id, url }) => {
         <h3 className={styles.video_name}>{name}</h3>
       </div>
       <Modal
-        size='lg'
+        size='xl'
         show={lgShow}
         onHide={() => setLgShow(false)}
         aria-labelledby='example-modal-sizes-title-lg'
+        centered
       >
         <Modal.Header closeButton>
           <Modal.Title id='example-modal-sizes-title-lg'>{name}</Modal.Title>
@@ -26,8 +27,8 @@ export const ComVideos = ({ name, id, url }) => {
           <YouTube
             videoId={id}
             opts={{
-              width: "560",
-              height: "315",
+              width: "100%",
+              height: "100%",
               playerVars: {
                 autoplay: 0,
                 rel: 0,
