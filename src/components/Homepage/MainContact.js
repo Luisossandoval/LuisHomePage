@@ -63,8 +63,8 @@ export const MainContact = () => {
                 <div>
                   <h3>Luis Olivares Sandoval</h3>
                   <p>
-                    I am available for freelance work. Connect with me via and
-                    call in to my account.
+                    If contact is not established, please contact me using the
+                    information below.
                   </p>
                   <span>
                     <span className={styles.bold}>Email :</span>
