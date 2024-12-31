@@ -108,12 +108,14 @@ export const MainMyGallery = () => {
           {galleryList.map((gallery, index) => {
             return (
               <SwiperSlide>
-                <div onClick={() => handleShow(index)}>
-                  <img src={gallery.name} alt={gallery.alt} key={index} />
-                </div>
-                <div className={styles.gallery_name}>
-                  <h4>{gallery.title}</h4>
-                  <span>{gallery.artist}</span>
+                <div className={styles.gallery_list}>
+                  <div onClick={() => handleShow(index)}>
+                    <img src={gallery.name} alt={gallery.alt} key={index} />
+                  </div>
+                  <div className={styles.gallery_name}>
+                    <h4>{gallery.title}</h4>
+                    <span>{gallery.artist}</span>
+                  </div>
                 </div>
               </SwiperSlide>
             );

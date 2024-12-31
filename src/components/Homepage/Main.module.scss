@@ -92,19 +92,22 @@
     color: var(--subtitle-font-color);
     font-size: var(--subtitle-font-size);
   }
-  .gallery_name {
-    h4 {
-      padding: 0;
-      margin: 0.5rem 0 0;
-      font-size: 18px;
-      font-weight: 700;
+  .gallery_list {
+    cursor: pointer;
+    .gallery_name {
+      h4 {
+        padding: 0;
+        margin: 0.5rem 0 0;
+        font-size: 18px;
+        font-weight: 700;
+      }
+      span {
+        font-size: 16px;
+        color: #ccc;
+      }
+      text-align: center;
+      color: #fff;
     }
-    span {
-      font-size: 16px;
-      color: #ccc;
-    }
-    text-align: center;
-    color: #fff;
   }
 }
 
@@ -240,52 +243,103 @@
     font-size: var(--point-font-size);
     font-weight: var(--point-font-weight);
   }
-  .form_wrap {
-    padding-left: 2rem;
-    .form {
+  .contact_content {
+    .profile {
       display: flex;
       flex-direction: column;
-      text-align: start;
-      label {
-        margin-bottom: 5px;
-        font-size: 16px;
-        font-weight: 700;
+      height: 100%;
+      padding: 1.5rem;
+      background-color: white;
+      border-radius: 0.5rem;
+      .profile_img {
+        width: 100%;
+        object-fit: contain;
+        overflow: hidden;
+        border-radius: 0.5rem;
+        img {
+          width: 100%;
+        }
       }
-      input {
-        padding: 15px 0 15px 10px;
-        margin-bottom: 20px;
-        border: 0;
-        outline: 0;
-        border-radius: 0.3rem;
-      }
-      textarea {
-        padding: 15px 0 15px 10px;
-        border: 0;
-        outline: 0;
-        border-radius: 0.3rem;
-      }
-      .btn_send {
-        padding: 15px 0;
-        margin-top: 40px;
-        font-size: 18px;
-        font-weight: 700;
-        text-align: center;
-        outline: 0;
-        border: 1px solid #707070;
-        border-radius: 0.3em;
-        background: #ecf0f3;
+      .profile_text {
+        margin-top: 1rem;
+        display: flex;
+        flex-direction: column;
+        flex-grow: 1;
+        justify-content: space-between;
+        text-align: left;
+        .bold {
+          font-weight: 700;
+          margin-right: 0.5rem;
+        }
+        .sns_list {
+          padding: 0;
+          display: flex;
+          list-style: none;
+          li {
+            margin-right: 0.75rem;
+            width: 36px;
+          }
+        }
       }
     }
-    .message_popup {
-      position: fixed;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      padding: 2em;
-      background-color: white;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-      border-radius: 8px;
-      text-align: center;
+    .form_wrap {
+      padding-left: 2rem;
+      .form {
+        display: flex;
+        flex-direction: column;
+        text-align: start;
+        label {
+          margin-bottom: 5px;
+          font-size: 16px;
+          font-weight: 700;
+        }
+        input {
+          padding: 15px 0 15px 10px;
+          margin-bottom: 20px;
+          border: 0;
+          outline: 0;
+          border-radius: 0.3rem;
+        }
+        textarea {
+          padding: 15px 0 15px 10px;
+          border: 0;
+          outline: 0;
+          border-radius: 0.3rem;
+        }
+        .btn_send {
+          padding: 15px 0;
+          margin-top: 40px;
+          font-size: 18px;
+          font-weight: 700;
+          text-align: center;
+          outline: 0;
+          border: 1px solid #707070;
+          border-radius: 0.3em;
+          background: #ecf0f3;
+        }
+      }
+      .message_popup {
+        position: fixed;
+        top: 50vh;
+        left: 50vw;
+        transform: translate(-50%, -50%);
+        padding: 2em;
+        background-color: white;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+        text-align: center;
+        p {
+          margin-bottom: 2rem;
+        }
+        .popup_button {
+          padding: 0.5rem 2rem;
+          outline: 0;
+          background: #333;
+          border: 0;
+          color: white;
+          border-radius: 0.5rem;
+        }
+      }
     }
   }
 }
@@ -356,8 +410,23 @@
   }
   .main_contact {
     padding: 100px 1rem 160px;
-    .form_wrap {
-      padding-left: 0;
+    .contact_content {
+      .content_profile {
+        order: 1;
+        margin-top: 5rem;
+
+        .profile {
+          .profile_text {
+            .sns_content {
+              margin-top: 1.5rem;
+            }
+          }
+        }
+      }
+
+      .form_wrap {
+        padding-left: 0;
+      }
     }
   }
 }

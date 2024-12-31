@@ -29,7 +29,6 @@ export const MainAboutMe = () => {
                     target='_blank'
                     rel='noreferrer'
                   >
-                    {" "}
                     “Cardiff Singer of the World”{" "}
                   </a>
                 </span>

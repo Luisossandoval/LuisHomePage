@@ -50,8 +50,59 @@ export const MainContact = () => {
       <Container>
         <h3>Contact me</h3>
         <h1>My Contact</h1>
-        <Row>
-          <Col md={5}>email: Luis</Col>
+        <Row className={styles.contact_content}>
+          <Col md={5} className={styles.content_profile}>
+            <div className={styles.profile}>
+              <div className={styles.profile_img}>
+                <img
+                  src='../../images/mainpage/contact_profile.png'
+                  alt='Wearing a black shirt with a white jacket over it, the right hand lightly holding the right side of the jacket. Looking straight ahead with a dark black background that is dimly lit, creating a luxurious atmosphere with light glowing around the focal point.'
+                />
+              </div>
+              <div className={styles.profile_text}>
+                <div>
+                  <h3>Luis Olivares Sandoval</h3>
+                  <p>
+                    I am available for freelance work. Connect with me via and
+                    call in to my account.
+                  </p>
+                  <span>
+                    <span className={styles.bold}>Email :</span>
+                    olivsandtenor@gmail.com
+                  </span>
+                </div>
+                <div className={styles.sns_content}>
+                  <h3>FIND WITH ME</h3>
+                  <ul className={styles.sns_list}>
+                    <li>
+                      <a
+                        href='https://www.youtube.com/@PianistsuandTenorluis'
+                        target='_blank'
+                        rel='noreferrer'
+                      >
+                        <img
+                          src='../../images/mainpage/sns_youtube.svg'
+                          alt='This is the YouTube logo. Clicking on it will open Luis’s YouTube page.'
+                        />
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href='https://www.youtube.com/@PianistsuandTenorluis'
+                        target='_blank'
+                        rel='noreferrer'
+                      >
+                        <img
+                          src='../../images/mainpage/sns_meta.svg'
+                          alt='This is the Meta logo. Clicking on it will open Luis’s Meta page.'
+                        />
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </Col>
           <Col md={7}>
             <div className={styles.form_wrap}>
               <form className={styles.form} ref={form} onSubmit={onSendForm}>
@@ -93,7 +144,9 @@ export const MainContact = () => {
               {showPopup && (
                 <div className={styles.message_popup} style={{}}>
                   <p>{popupMessage}</p>
-                  <button onClick={closePopup}>Confirm</button>
+                  <button className={styles.popup_button} onClick={closePopup}>
+                    Confirm
+                  </button>
                 </div>
               )}
             </div>
