@@ -72,7 +72,7 @@ export const MainContact = () => {
                   </span>
                 </div>
                 <div className={styles.sns_content}>
-                  <h3>FIND WITH ME</h3>
+                  <h3>PLEASE FOLLOW ME</h3>
                   <ul className={styles.sns_list}>
                     <li>
                       <a
