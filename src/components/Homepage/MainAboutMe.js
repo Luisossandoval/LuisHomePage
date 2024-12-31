@@ -17,7 +17,7 @@ export const MainAboutMe = () => {
           </Col>
           <Col md={7} className={styles.main_profile_content}>
             <div className={styles.main_profile_text}>
-              <h3>VISIT MY GEOGRAPHY, HIER ME</h3>
+              <h3>VISIT MY BIOGRAPHY, HIER ME</h3>
               <h1>About Me</h1>
               <p>
                 Suggested by his singing teachers and repertoire masters, Luis

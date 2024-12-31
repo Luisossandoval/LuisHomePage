@@ -88,7 +88,7 @@ export const MainContact = () => {
                     </li>
                     <li>
                       <a
-                        href='https://www.youtube.com/@PianistsuandTenorluis'
+                        href='https://www.facebook.com/luis.olivaressandoval'
                         target='_blank'
                         rel='noreferrer'
                       >
