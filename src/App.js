@@ -15,8 +15,11 @@ function App() {
   return (
     <div>
       <Helmet>
-        <title>Default Title - My Website</title>
-        <meta name='description' content='Default description for my website' />
+        <title>Tenor Luis Olivares Sandoval Website</title>
+        <meta
+          name='description'
+          content='Welcome to the website of Tenor Luis Olivares Sandoval.'
+        />
         <meta
           name='google-site-verification'
           content='B--CqNtWyQ7Lqd9avhmd-f5D_s6Cqk3UiQiuyJM1t8U'
