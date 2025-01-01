@@ -1,8 +1,8 @@
 import "./App.css";
 import { Routes, Route } from "react-router-dom";
+import { Helmet } from "react-helmet";
 import AppLayout from "./layout/AppLayout";
 import Homepage from "./pages/Homepage/Homepage";
-import { Helmet } from "react-helmet";
 import Biography from "./pages/Biography/Biography";
 import Repertoire from "./pages/Repertoire/Repertoire";
 import Schedule from "./pages/Schedule/Schedule";
@@ -28,7 +28,7 @@ function App() {
       </Helmet>
       <Routes>
         <Route path='/' element={<AppLayout />}>
-          <Route index element={<Homepage />} />
+          <Route index element={<Homepage />} />{" "}
         </Route>
         <Route path='*' element={<NotFoundPage />} />
       </Routes>
