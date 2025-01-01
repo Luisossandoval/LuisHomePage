@@ -13,17 +13,22 @@ import "./style.scss";
 
 function App() {
   return (
-    <Routes>
-      <Route path='/' element={<AppLayout />}>
-        <Route index element={<Homepage />} />
-        <Route path='biography' element={<Biography />} />
-        <Route path='repertoire' element={<Repertoire />} />
-        <Route path='schedule' element={<Schedule />} />
-        <Route path='videos' element={<Videos />} />
-        <Route path='contact' element={<Contact />} />
-      </Route>
-      <Route path='*' element={<NotFoundPage />} />
-    </Routes>
+    <div>
+      <Helmet>
+        <title>Default Title - My Website</title>
+        <meta name='description' content='Default description for my website' />
+        <meta
+          name='google-site-verification'
+          content='B--CqNtWyQ7Lqd9avhmd-f5D_s6Cqk3UiQiuyJM1t8U'
+        />
+      </Helmet>
+      <Routes>
+        <Route path='/' element={<AppLayout />}>
+          <Route index element={<Homepage />} />
+        </Route>
+        <Route path='*' element={<NotFoundPage />} />
+      </Routes>
+    </div>
   );
 }
 
