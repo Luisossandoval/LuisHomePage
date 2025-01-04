@@ -29,6 +29,11 @@ function App() {
       <Routes>
         <Route path='/' element={<AppLayout />}>
           <Route index element={<Homepage />} />
+          <Route path='biography' element={<Biography />} />
+          <Route path='repertoire' element={<Repertoire />} />
+          <Route path='schedule' element={<Schedule />} />
+          <Route path='videos' element={<Videos />} />
+          <Route path='contact' element={<Contact />} />
         </Route>
         <Route path='*' element={<NotFoundPage />} />
       </Routes>
