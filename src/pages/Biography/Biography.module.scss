@@ -1,0 +1,30 @@
+.detail_content {
+  padding-bottom: 4rem;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.profile_img {
+  img {
+    width: 100%;
+  }
+}
+
+.profile_text {
+  h3 {
+    color: #c07d5b;
+    font-weight: 700;
+    padding-bottom: 2rem;
+  }
+  p {
+    color: white;
+    line-height: 1.6;
+    a {
+      cursor: pointer;
+      padding: 0 10px;
+      background-color: #c17d5b;
+      text-decoration: none;
+      color: #1b1b26;
+    }
+  }
+}

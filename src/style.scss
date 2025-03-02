@@ -86,3 +86,22 @@ body {
     padding-bottom: 9rem;
   }
 }
+
+.detail_header {
+  display: flex;
+  align-items: flex-end;
+  height: 110px;
+  background-color: #1b1b26;
+}
+
+.detail_title {
+  padding-bottom: 1rem;
+  color: white;
+  font-weight: 700;
+}
+
+.detail_body {
+  color: white;
+  background-color: #0e0e1a;
+  padding: 110px 0 130px;
+}

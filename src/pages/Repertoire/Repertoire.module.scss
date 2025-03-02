@@ -1,0 +1,29 @@
+.repertoire_list {
+  h3 {
+    color: #c07d5b;
+    font-weight: 700;
+    &.title {
+      margin-top: 4rem;
+    }
+  }
+  ul {
+    padding: 0;
+    list-style: none;
+    .product {
+      padding-left: 1rem;
+      li {
+        &::before {
+          content: "•";
+          margin-right: 0.5rem;
+        }
+      }
+    }
+  }
+}
+
+.artist {
+  display: inline-block;
+  margin-top: 0.75rem;
+  color: #c07d5b;
+  font-weight: 700;
+}
