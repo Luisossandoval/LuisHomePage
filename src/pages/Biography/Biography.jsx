@@ -78,7 +78,7 @@ const Biography = () => {
                 singers who venture into the fascinating art of singing .
               </p>
             </Col>
-            <Col md={6}>
+            <Col md={6} className={styles.profile_img}>
               <img
                 src='./images/profile/profile_02.png'
                 alt="Louis's performance photos"
