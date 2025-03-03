@@ -1,6 +1,7 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import styles from "./Main.module.scss";
+import { Link } from "react-router-dom";
 
 export const MainAboutMe = () => {
   return (
@@ -47,7 +48,9 @@ export const MainAboutMe = () => {
               </p>
             </div>
             <div className={styles.btn_goBiography}>
-              <button>Go to my biography</button>
+              <Link to='/biography'>
+                <button>Go to my biography</button>
+              </Link>
             </div>
           </Col>
         </Row>

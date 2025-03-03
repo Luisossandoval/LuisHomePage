@@ -1,8 +1,13 @@
 import React from "react";
+import { useEffect } from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import styles from "./Biography.module.scss";
 
 const Biography = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   return (
     <div>
       <div className='detail_header'>
