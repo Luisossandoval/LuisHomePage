@@ -197,7 +197,11 @@ const Repertoire = () => {
                 <span className={styles.artist}>Mascagni, Pietro</span>
                 <ul className={styles.product}>
                   <li>Cavalleria Rusticana (Turiddu)</li>
-                  <li>Massenet, Jules</li>
+                </ul>
+              </li>
+              <li>
+                <span className={styles.artist}>Massenet, Jules</span>
+                <ul className={styles.product}>
                   <li>Manon (Des Grieux)</li>
                   <li>Werther (Werther*)</li>
                 </ul>
