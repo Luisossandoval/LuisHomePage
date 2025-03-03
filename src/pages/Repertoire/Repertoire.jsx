@@ -46,7 +46,7 @@ const Repertoire = () => {
                 </ul>
               </li>
               <li>
-                <span className={styles.artist}>Händel ,Georg Friedrich</span>
+                <span className={styles.artist}>Händel, Georg Friedrich</span>
                 <ul className={styles.product}>
                   <li>Messiah, HWV56</li>
                 </ul>
@@ -103,7 +103,7 @@ const Repertoire = () => {
                 </ul>
               </li>
               <li>
-                <span className={styles.artist}>Stravinsky Igor</span>
+                <span className={styles.artist}>Stravinsky, Igor</span>
                 <ul className={styles.product}>
                   <li>Les noces</li>
                 </ul>
@@ -176,7 +176,7 @@ const Repertoire = () => {
                 </ul>
               </li>
               <li>
-                <span className={styles.artist}>Janáček Leoš</span>
+                <span className={styles.artist}>Janáček, Leoš</span>
                 <ul className={styles.product}>
                   <li>Jenůfa (Laca*)</li>
                 </ul>
