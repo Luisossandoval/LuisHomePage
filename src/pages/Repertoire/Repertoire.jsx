@@ -243,7 +243,11 @@ const Repertoire = () => {
                 <ul className={styles.product}>
                   <li>Der Rosenkavalier (ein Sänger*)</li>
                   <li>Salome (Narraboth*)</li>
-                  <li>Tschaikowsky, Pjotr I.</li>
+                </ul>
+              </li>
+              <li>
+                <span className={styles.artist}>Tschaikowsky, Pjotr I.</span>
+                <ul className={styles.product}>
                   <li>Pique Dame (Hermann*)</li>
                 </ul>
               </li>
@@ -254,7 +258,8 @@ const Repertoire = () => {
                   <li>Rigoletto (Il duca di Mantova)</li>
                   <li>Aida (Radamès*)</li>
                   <li>Messa di Requiem (Tenor*)</li>
-                  <li>Un ballo in maschera (Riccardo*) Macbeth (Macduff*)</li>
+                  <li>Un ballo in maschera (Riccardo*)</li>
+                  <li>Macbeth (Macduff*)</li>
                   <li>Nabucco (Ismaele*)</li>
                   <li>Falstaff (Fenton*)</li>
                   <li>Don Carlos (Don Carlo*)</li>
