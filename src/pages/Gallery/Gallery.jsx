@@ -22,7 +22,7 @@ const Gallery = () => {
       .then((res) => res.json())
       .then((data) => {
         setGalleryList(data);
-        setVisibleData(data.slice(0, 12));
+        setVisibleData(data.slice(0, 16));
       });
   }, []);
 
@@ -71,13 +71,13 @@ const Gallery = () => {
             loader={<p style={{ textAlign: "center" }}>Loading…</p>}
             endMessage={
               <p style={{ textAlign: "center" }}>
-                <b>All images have been loaded.</b>
+                <b>You’ve seen all the images!</b>
               </p>
             }
           >
             <Row>
               {visibleData.map((gallery, index) => (
-                <Col xl='2' md='3' xs='6' key={index} className={styles.card}>
+                <Col md='3' xs='6' key={index} className={styles.card}>
                   <div
                     className={styles.img_content}
                     onClick={() => handleShow(galleryList.indexOf(gallery))}
