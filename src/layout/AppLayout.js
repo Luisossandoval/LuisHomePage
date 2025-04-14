@@ -40,6 +40,7 @@ const AppLayout = () => {
                   <Nav.Link href='/'>Home</Nav.Link>
                   <Nav.Link href='biography'>Biography</Nav.Link>
                   <Nav.Link href='repertoire'>Repertoire</Nav.Link>
+                  <Nav.Link href='gallery'>Gallery</Nav.Link>
                   {/* <Nav.Link href='schedule'>Schedule</Nav.Link>
                   <Nav.Link href='videos'>Videos</Nav.Link> */}
                   <Nav.Link href='contact'>Contact</Nav.Link>

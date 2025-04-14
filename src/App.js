@@ -11,6 +11,7 @@ import Contact from "./pages/Contact/Contact";
 import NotFoundPage from "./pages/NotFoundPage/NotFoundPage";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./style.scss";
+import Gallery from "./pages/Gallery/Gallery";
 
 function App() {
   return (
@@ -32,6 +33,7 @@ function App() {
           <Route path='biography' element={<Biography />} />
           <Route path='repertoire' element={<Repertoire />} />
           <Route path='schedule' element={<Schedule />} />
+          <Route path='gallery' element={<Gallery />} />
           <Route path='videos' element={<Videos />} />
           <Route path='contact' element={<Contact />} />
         </Route>

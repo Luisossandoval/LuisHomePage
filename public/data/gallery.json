@@ -1,0 +1,706 @@
+[
+  {
+    "name": "/images/gallery/thumbnail/alcina_01.png",
+    "ori": "/images/gallery/popup/alcina_01.jpg",
+    "oriWebp": "/images/gallery/popup/alcina_01.webp",
+    "alt": "Luis performing a passionate dance in a vivid red costume during Alcina.",
+    "title": "Alcina",
+    "artist": "George Frideric Handel"
+  },
+  {
+    "name": "/images/gallery/thumbnail/ariadne_01.png",
+    "ori": "/images/gallery/popup/ariadne_01.jpg",
+    "oriWebp": "/images/gallery/popup/ariadne_01.webp",
+    "alt": "Luis in a navy uniform, covering his mouth as he performs in Ariadne auf Naxos.",
+    "title": "Ariadne auf Naxos",
+    "artist": "Richard Strauss"
+  },
+  {
+    "name": "/images/gallery/thumbnail/aufstieg_01.png",
+    "ori": "/images/gallery/popup/aufstieg_01.jpg",
+    "oriWebp": "/images/gallery/popup/aufstieg_01.webp",
+    "alt": "Luis leaning on a fellow actor under a glowing ‘OPEN’ sign in Mahagonny.",
+    "title": "Aufstieg und Fall der Stadt Mahagonny",
+    "artist": "Kurt Weill"
+  },
+  {
+    "name": "/images/gallery/thumbnail/aufstieg_02.png",
+    "ori": "/images/gallery/popup/aufstieg_02.jpg",
+    "oriWebp": "/images/gallery/popup/aufstieg_02.webp",
+    "alt": "Luis in a white tank top, wearing sunglasses, on stage in Mahagonny.",
+    "title": "Aufstieg und Fall der Stadt Mahagonny",
+    "artist": "Kurt Weill"
+  },
+  {
+    "name": "/images/gallery/thumbnail/carmen_01.png",
+    "ori": "/images/gallery/popup/carmen_01.jpg",
+    "oriWebp": "/images/gallery/popup/carmen_01.webp",
+    "alt": "Luis walking down a staircase while a woman watches him in Carmen.",
+    "title": "Carmen",
+    "artist": "Georges Bizet"
+  },
+  {
+    "name": "/images/gallery/thumbnail/carmen_02.png",
+    "ori": "/images/gallery/popup/carmen_02.jpg",
+    "oriWebp": "/images/gallery/popup/carmen_02.webp",
+    "alt": "Luis turning his head toward the audience in an elegant Carmen performance scene.",
+    "title": "Carmen",
+    "artist": "Georges Bizet"
+  },
+  {
+    "name": "/images/gallery/thumbnail/carmen_03.png",
+    "ori": "/images/gallery/popup/carmen_03.jpg",
+    "oriWebp": "/images/gallery/popup/carmen_03.webp",
+    "alt": "Luis embracing his co-star in a romantic and intense scene from Carmen.",
+    "title": "Carmen",
+    "artist": "Georges Bizet"
+  },
+  {
+    "name": "/images/gallery/thumbnail/cosi_01.png",
+    "ori": "/images/gallery/popup/cosi_01.jpg",
+    "oriWebp": "/images/gallery/popup/cosi_01.webp",
+    "alt": "uis standing confidently in a white robe and hat in Cosi fan tutte.",
+    "title": "Cosi fan tutte",
+    "artist": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "name": "/images/gallery/thumbnail/fliegender_01.png",
+    "ori": "/images/gallery/popup/fliegender_01.jpg",
+    "oriWebp": "/images/gallery/popup/fliegender_01.webp",
+    "alt": "Luis dramatically extending his arm in a powerful moment from Der Fliegender Holländer.",
+    "title": "Der Fliegender Holländer",
+    "artist": "Richard Wagner"
+  },
+  {
+    "name": "/images/gallery/thumbnail/rosenkavalier_01.png",
+    "ori": "/images/gallery/popup/rosenkavalier_01.jpg",
+    "oriWebp": "/images/gallery/popup/rosenkavalier_01.webp",
+    "alt": "Luis performing next to a co-star lying on a red satin bed in Der Rosenkavalier.",
+    "title": "Der Rosenkavalier",
+    "artist": "Richard Strauss"
+  },
+  {
+    "name": "/images/gallery/thumbnail/rosenkavalier_02.png",
+    "ori": "/images/gallery/popup/rosenkavalier_02.jpg",
+    "oriWebp": "/images/gallery/popup/rosenkavalier_02.webp",
+    "alt": "Luis gazing at his reflection through a mirror in a symbolic moment from Der Rosenkavalier.",
+    "title": "Der Rosenkavalier",
+    "artist": "Richard Strauss"
+  },
+  {
+    "name": "/images/gallery/thumbnail/zauber_01.png",
+    "ori": "/images/gallery/popup/zauber_01.jpg",
+    "oriWebp": "/images/gallery/popup/zauber_01.webp",
+    "alt": "Luis holding a magic flute while singing, flanked by two women in Die Zauberflöte.",
+    "title": "Die Zauberflöte",
+    "artist": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "name": "/images/gallery/thumbnail/zauber_02.png",
+    "ori": "/images/gallery/popup/zauber_02.jpg",
+    "oriWebp": "/images/gallery/popup/zauber_02.webp",
+    "alt": "photo name",
+    "title": "Die Zauberflöte",
+    "artist": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "name": "/images/gallery/thumbnail/zauber_03.png",
+    "ori": "/images/gallery/popup/zauber_03.jpg",
+    "oriWebp": "/images/gallery/popup/zauber_03.webp",
+    "alt": "photo name",
+    "title": "Die Zauberflöte",
+    "artist": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "name": "/images/gallery/thumbnail/zauber_04.png",
+    "ori": "/images/gallery/popup/zauber_04.jpg",
+    "oriWebp": "/images/gallery/popup/zauber_04.webp",
+    "alt": "photo name",
+    "title": "Die Zauberflöte",
+    "artist": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "name": "/images/gallery/thumbnail/zauber02_01.png",
+    "ori": "/images/gallery/popup/zauber02_01.jpg",
+    "oriWebp": "/images/gallery/popup/zauber02_01.webp",
+    "alt": "photo name",
+    "title": "Die Zauberflöte",
+    "artist": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "name": "/images/gallery/thumbnail/zauber02_02.png",
+    "ori": "/images/gallery/popup/zauber02_02.jpg",
+    "oriWebp": "/images/gallery/popup/zauber02_02.webp",
+    "alt": "photo name",
+    "title": "Die Zauberflöte",
+    "artist": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "name": "/images/gallery/thumbnail/zauber02_03.png",
+    "ori": "/images/gallery/popup/zauber02_03.jpg",
+    "oriWebp": "/images/gallery/popup/zauber02_03.webp",
+    "alt": "photo name",
+    "title": "Die Zauberflöte",
+    "artist": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "name": "/images/gallery/thumbnail/carlo_01.png",
+    "ori": "/images/gallery/popup/carlo_01.jpg",
+    "oriWebp": "/images/gallery/popup/carlo_01.webp",
+    "alt": "photo name",
+    "title": "Don Carlo",
+    "artist": "Giuseppe Verdi"
+  },
+  {
+    "name": "/images/gallery/thumbnail/carlo_02.png",
+    "ori": "/images/gallery/popup/carlo_02.jpg",
+    "oriWebp": "/images/gallery/popup/carlo_02.webp",
+    "alt": "photo name",
+    "title": "Don Carlo",
+    "artist": "Giuseppe Verdi"
+  },
+  {
+    "name": "/images/gallery/thumbnail/giovanni01.png",
+    "ori": "/images/gallery/popup/giovanni01.jpg",
+    "oriWebp": "/images/gallery/popup/giovanni01.webp",
+    "alt": "photo name",
+    "title": "Don Giovanni",
+    "artist": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "name": "/images/gallery/thumbnail/gianni_01.png",
+    "ori": "/images/gallery/popup/gianni_01.jpg",
+    "oriWebp": "/images/gallery/popup/gianni_01.webp",
+    "alt": "photo name",
+    "title": "Gianni Schicchi",
+    "artist": "Giacomo Puccini"
+  },
+  {
+    "name": "/images/gallery/thumbnail/idomeneo_01.png",
+    "ori": "/images/gallery/popup/idomeneo_01.jpg",
+    "oriWebp": "/images/gallery/popup/idomeneo_01.webp",
+    "alt": "photo name",
+    "title": "Idomeneo",
+    "artist": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "name": "/images/gallery/thumbnail/idomeneo_02.png",
+    "ori": "/images/gallery/popup/idomeneo_02.jpg",
+    "oriWebp": "/images/gallery/popup/idomeneo_02.webp",
+    "alt": "photo name",
+    "title": "Idomeneo",
+    "artist": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "name": "/images/gallery/thumbnail/idomeneo_03.png",
+    "ori": "/images/gallery/popup/idomeneo_03.jpg",
+    "oriWebp": "/images/gallery/popup/idomeneo_03.webp",
+    "alt": "photo name",
+    "title": "Idomeneo",
+    "artist": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "name": "/images/gallery/thumbnail/idomeneo_04.png",
+    "ori": "/images/gallery/popup/idomeneo_04.jpg",
+    "oriWebp": "/images/gallery/popup/idomeneo_04.webp",
+    "alt": "photo name",
+    "title": "Idomeneo",
+    "artist": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "name": "/images/gallery/thumbnail/idomeneo_05.png",
+    "ori": "/images/gallery/popup/idomeneo_05.jpg",
+    "oriWebp": "/images/gallery/popup/idomeneo_05.webp",
+    "alt": "photo name",
+    "title": "Idomeneo",
+    "artist": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "name": "/images/gallery/thumbnail/idomeneo_06.png",
+    "ori": "/images/gallery/popup/idomeneo_06.jpg",
+    "oriWebp": "/images/gallery/popup/idomeneo_06.webp",
+    "alt": "photo name",
+    "title": "Idomeneo",
+    "artist": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "name": "/images/gallery/thumbnail/idomeneo_07.png",
+    "ori": "/images/gallery/popup/idomeneo_07.jpg",
+    "oriWebp": "/images/gallery/popup/idomeneo_07.webp",
+    "alt": "photo name",
+    "title": "Idomeneo",
+    "artist": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "name": "/images/gallery/thumbnail/idomeneo_08.png",
+    "ori": "/images/gallery/popup/idomeneo_08.jpg",
+    "oriWebp": "/images/gallery/popup/idomeneo_08.webp",
+    "alt": "photo name",
+    "title": "Idomeneo",
+    "artist": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "name": "/images/gallery/thumbnail/tabarro_01.png",
+    "ori": "/images/gallery/popup/tabarro_01.jpg",
+    "oriWebp": "/images/gallery/popup/tabarro_01.webp",
+    "alt": "photo name",
+    "title": "Il Tabarro",
+    "artist": "Giacomo Puccini"
+  },
+  {
+    "name": "/images/gallery/thumbnail/tabarro_02.png",
+    "ori": "/images/gallery/popup/tabarro_02.jpg",
+    "oriWebp": "/images/gallery/popup/tabarro_02.webp",
+    "alt": "photo name",
+    "title": "Il Tabarro",
+    "artist": "Giacomo Puccini"
+  },
+  {
+    "name": "/images/gallery/thumbnail/jenufa_01.png",
+    "ori": "/images/gallery/popup/jenufa_01.jpg",
+    "oriWebp": "/images/gallery/popup/jenufa_01.webp",
+    "alt": "photo name",
+    "title": "Jenůfa",
+    "artist": "Leoš Janáček"
+  },
+  {
+    "name": "/images/gallery/thumbnail/jenufa_02.png",
+    "ori": "/images/gallery/popup/jenufa_02.jpg",
+    "oriWebp": "/images/gallery/popup/jenufa_02.webp",
+    "alt": "photo name",
+    "title": "Jenůfa",
+    "artist": "Leoš Janáček"
+  },
+  {
+    "name": "/images/gallery/thumbnail/jenufa_03.png",
+    "ori": "/images/gallery/popup/jenufa_03.jpg",
+    "oriWebp": "/images/gallery/popup/jenufa_03.webp",
+    "alt": "photo name",
+    "title": "Jenůfa",
+    "artist": "Leoš Janáček"
+  },
+  {
+    "name": "/images/gallery/thumbnail/l_elisir_01.png",
+    "ori": "/images/gallery/popup/l_elisir_01.jpg",
+    "oriWebp": "/images/gallery/popup/l_elisir_01.webp",
+    "alt": "photo name",
+    "title": "L_elisir d_amore",
+    "artist": "Gaetano Donizetti"
+  },
+  {
+    "name": "/images/gallery/thumbnail/l_elisir_02.png",
+    "ori": "/images/gallery/popup/l_elisir_02.jpg",
+    "oriWebp": "/images/gallery/popup/l_elisir_02.webp",
+    "alt": "photo name",
+    "title": "L_elisir d_amore",
+    "artist": "Gaetano Donizetti"
+  },
+  {
+    "name": "/images/gallery/thumbnail/l_elisir_03.png",
+    "ori": "/images/gallery/popup/l_elisir_03.jpg",
+    "oriWebp": "/images/gallery/popup/l_elisir_03.webp",
+    "alt": "photo name",
+    "title": "L_elisir d_amore",
+    "artist": "Gaetano Donizetti"
+  },
+  {
+    "name": "/images/gallery/thumbnail/l_etoile_01.png",
+    "ori": "/images/gallery/popup/l_etoile_01.jpg",
+    "oriWebp": "/images/gallery/popup/l_etoile_01.webp",
+    "alt": "photo name",
+    "title": "L_étoile",
+    "artist": "Emmanuel Chabrier"
+  },
+  {
+    "name": "/images/gallery/thumbnail/l_etoile_02.png",
+    "ori": "/images/gallery/popup/l_etoile_02.jpg",
+    "oriWebp": "/images/gallery/popup/l_etoile_02.webp",
+    "alt": "photo name",
+    "title": "L_étoile",
+    "artist": "Emmanuel Chabrier"
+  },
+  {
+    "name": "/images/gallery/thumbnail/l_etoile_03.png",
+    "ori": "/images/gallery/popup/l_etoile_03.jpg",
+    "oriWebp": "/images/gallery/popup/l_etoile_03.webp",
+    "alt": "photo name",
+    "title": "L_étoile",
+    "artist": "Emmanuel Chabrier"
+  },
+  {
+    "name": "/images/gallery/thumbnail/l_etoile_04.png",
+    "ori": "/images/gallery/popup/l_etoile_04.jpg",
+    "oriWebp": "/images/gallery/popup/l_etoile_04.webp",
+    "alt": "photo name",
+    "title": "L_étoile",
+    "artist": "Emmanuel Chabrier"
+  },
+  {
+    "name": "/images/gallery/thumbnail/l_etoile_05.png",
+    "ori": "/images/gallery/popup/l_etoile_05.jpg",
+    "oriWebp": "/images/gallery/popup/l_etoile_05.webp",
+    "alt": "photo name",
+    "title": "L_étoile",
+    "artist": "Emmanuel Chabrier"
+  },
+  {
+    "name": "/images/gallery/thumbnail/l_etoile_06.png",
+    "ori": "/images/gallery/popup/l_etoile_06.jpg",
+    "oriWebp": "/images/gallery/popup/l_etoile_06.webp",
+    "alt": "photo name",
+    "title": "L_étoile",
+    "artist": "Emmanuel Chabrier"
+  },
+  {
+    "name": "/images/gallery/thumbnail/l_etoile_07.png",
+    "ori": "/images/gallery/popup/l_etoile_07.jpg",
+    "oriWebp": "/images/gallery/popup/l_etoile_07.webp",
+    "alt": "photo name",
+    "title": "L_étoile",
+    "artist": "Emmanuel Chabrier"
+  },
+  {
+    "name": "/images/gallery/thumbnail/l_etoile_08.png",
+    "ori": "/images/gallery/popup/l_etoile_08.jpg",
+    "oriWebp": "/images/gallery/popup/l_etoile_08.webp",
+    "alt": "photo name",
+    "title": "L_étoile",
+    "artist": "Emmanuel Chabrier"
+  },
+  {
+    "name": "/images/gallery/thumbnail/la_boheme_01.png",
+    "ori": "/images/gallery/popup/la_boheme_01.jpg",
+    "oriWebp": "/images/gallery/popup/la_boheme_01.webp",
+    "alt": "photo name",
+    "title": "La bohème",
+    "artist": "Giacomo Puccini"
+  },
+  {
+    "name": "/images/gallery/thumbnail/la_boheme_02.png",
+    "ori": "/images/gallery/popup/la_boheme_02.jpg",
+    "oriWebp": "/images/gallery/popup/la_boheme_02.webp",
+    "alt": "photo name",
+    "title": "La bohème",
+    "artist": "Giacomo Puccini"
+  },
+  {
+    "name": "/images/gallery/thumbnail/lady_01.png",
+    "ori": "/images/gallery/popup/lady_01.jpg",
+    "oriWebp": "/images/gallery/popup/lady_01.webp",
+    "alt": "photo name",
+    "title": "Lady Macbeth of Mtsensk",
+    "artist": "Dmitri Shostakovich"
+  },
+  {
+    "name": "/images/gallery/thumbnail/lady_02.png",
+    "ori": "/images/gallery/popup/lady_02.jpg",
+    "oriWebp": "/images/gallery/popup/lady_02.webp",
+    "alt": "photo name",
+    "title": "Lady Macbeth of Mtsensk",
+    "artist": "Dmitri Shostakovich"
+  },
+  {
+    "name": "/images/gallery/thumbnail/lucia_01.png",
+    "ori": "/images/gallery/popup/lucia_01.jpg",
+    "oriWebp": "/images/gallery/popup/lucia_01.webp",
+    "alt": "photo name",
+    "title": "Lucia di Lammermoor",
+    "artist": "Gaetano Donizetti"
+  },
+  {
+    "name": "/images/gallery/thumbnail/lucia_02.png",
+    "ori": "/images/gallery/popup/lucia_02.jpg",
+    "oriWebp": "/images/gallery/popup/lucia_02.webp",
+    "alt": "photo name",
+    "title": "Lucia di Lammermoor",
+    "artist": "Gaetano Donizetti"
+  },
+  {
+    "name": "/images/gallery/thumbnail/lucia_03.png",
+    "ori": "/images/gallery/popup/lucia_03.jpg",
+    "oriWebp": "/images/gallery/popup/lucia_03.webp",
+    "alt": "photo name",
+    "title": "Lucia di Lammermoor",
+    "artist": "Gaetano Donizetti"
+  },
+  {
+    "name": "/images/gallery/thumbnail/macbeth_01.png",
+    "ori": "/images/gallery/popup/macbeth_01.jpg",
+    "oriWebp": "/images/gallery/popup/macbeth_01.webp",
+    "alt": "photo name",
+    "title": "Macbeth",
+    "artist": "Giuseppe Verdi"
+  },
+  {
+    "name": "/images/gallery/thumbnail/macbeth_02.png",
+    "ori": "/images/gallery/popup/macbeth_02.jpg",
+    "oriWebp": "/images/gallery/popup/macbeth_02.webp",
+    "alt": "photo name",
+    "title": "Macbeth",
+    "artist": "Giuseppe Verdi"
+  },
+  {
+    "name": "/images/gallery/thumbnail/maometto_01.png",
+    "ori": "/images/gallery/popup/maometto_01.jpg",
+    "oriWebp": "/images/gallery/popup/maometto_01.webp",
+    "alt": "photo name",
+    "title": "Maometto II",
+    "artist": "Gioachino Rossini"
+  },
+  {
+    "name": "/images/gallery/thumbnail/maometto_02.png",
+    "ori": "/images/gallery/popup/maometto_02.jpg",
+    "oriWebp": "/images/gallery/popup/maometto_02.webp",
+    "alt": "photo name",
+    "title": "Maometto II",
+    "artist": "Gioachino Rossini"
+  },
+  {
+    "name": "/images/gallery/thumbnail/maometto_03.png",
+    "ori": "/images/gallery/popup/maometto_03.jpg",
+    "oriWebp": "/images/gallery/popup/maometto_03.webp",
+    "alt": "photo name",
+    "title": "Maometto II",
+    "artist": "Gioachino Rossini"
+  },
+  {
+    "name": "/images/gallery/thumbnail/maometto_04.png",
+    "ori": "/images/gallery/popup/maometto_04.jpg",
+    "oriWebp": "/images/gallery/popup/maometto_04.webp",
+    "alt": "photo name",
+    "title": "Maometto II",
+    "artist": "Gioachino Rossini"
+  },
+  {
+    "name": "/images/gallery/thumbnail/norma_01.png",
+    "ori": "/images/gallery/popup/norma_01.jpg",
+    "oriWebp": "/images/gallery/popup/norma_01.webp",
+    "alt": "photo name",
+    "title": "Norma",
+    "artist": "Vincenzo Bellini"
+  },
+  {
+    "name": "/images/gallery/thumbnail/norma_02.png",
+    "ori": "/images/gallery/popup/norma_02.jpg",
+    "oriWebp": "/images/gallery/popup/norma_02.webp",
+    "alt": "photo name",
+    "title": "Norma",
+    "artist": "Vincenzo Bellini"
+  },
+  {
+    "name": "/images/gallery/thumbnail/operngala_01.png",
+    "ori": "/images/gallery/popup/operngala_01.jpg",
+    "oriWebp": "/images/gallery/popup/operngala_01.webp",
+    "alt": "photo name",
+    "title": "Operngala ",
+    "artist": ""
+  },
+  {
+    "name": "/images/gallery/thumbnail/operngala_02.png",
+    "ori": "/images/gallery/popup/operngala_02.jpg",
+    "oriWebp": "/images/gallery/popup/operngala_02.webp",
+    "alt": "photo name",
+    "title": "Operngala ",
+    "artist": ""
+  },
+  {
+    "name": "/images/gallery/thumbnail/operngala_03.png",
+    "ori": "/images/gallery/popup/operngala_03.jpg",
+    "oriWebp": "/images/gallery/popup/operngala_03.webp",
+    "alt": "photo name",
+    "title": "Operngala ",
+    "artist": ""
+  },
+  {
+    "name": "/images/gallery/thumbnail/pagliacci_01.png",
+    "ori": "/images/gallery/popup/pagliacci_01.jpg",
+    "oriWebp": "/images/gallery/popup/pagliacci_01.webp",
+    "alt": "photo name",
+    "title": "Pagliacci",
+    "artist": "Ruggero Leoncavallo"
+  },
+  {
+    "name": "/images/gallery/thumbnail/pagliacci_02.png",
+    "ori": "/images/gallery/popup/pagliacci_02.jpg",
+    "oriWebp": "/images/gallery/popup/pagliacci_02.webp",
+    "alt": "photo name",
+    "title": "Pagliacci",
+    "artist": "Ruggero Leoncavallo"
+  },
+  {
+    "name": "/images/gallery/thumbnail/pagliacci_03.png",
+    "ori": "/images/gallery/popup/pagliacci_03.jpg",
+    "oriWebp": "/images/gallery/popup/pagliacci_03.webp",
+    "alt": "photo name",
+    "title": "Pagliacci",
+    "artist": "Ruggero Leoncavallo"
+  },
+  {
+    "name": "/images/gallery/thumbnail/peter_01.png",
+    "ori": "/images/gallery/popup/peter_01.jpg",
+    "oriWebp": "/images/gallery/popup/peter_01.webp",
+    "alt": "photo name",
+    "title": "Peter Grimes",
+    "artist": "Benjamin Britten"
+  },
+  {
+    "name": "/images/gallery/thumbnail/pique_01.png",
+    "ori": "/images/gallery/popup/pique_01.jpg",
+    "oriWebp": "/images/gallery/popup/pique_01.webp",
+    "alt": "photo name",
+    "title": "Pique Dame",
+    "artist": "Pyotr Ilyich Tchaikovsky"
+  },
+  {
+    "name": "/images/gallery/thumbnail/pique_02.png",
+    "ori": "/images/gallery/popup/pique_02.jpg",
+    "oriWebp": "/images/gallery/popup/pique_02.webp",
+    "alt": "photo name",
+    "title": "Pique Dame",
+    "artist": "Pyotr Ilyich Tchaikovsky"
+  },
+  {
+    "name": "/images/gallery/thumbnail/pique_03.png",
+    "ori": "/images/gallery/popup/pique_03.jpg",
+    "oriWebp": "/images/gallery/popup/pique_03.webp",
+    "alt": "photo name",
+    "title": "Pique Dame",
+    "artist": "Pyotr Ilyich Tchaikovsky"
+  },
+  {
+    "name": "/images/gallery/thumbnail/pique_04.png",
+    "ori": "/images/gallery/popup/pique_04.jpg",
+    "oriWebp": "/images/gallery/popup/pique_04.webp",
+    "alt": "photo name",
+    "title": "Pique Dame",
+    "artist": "Pyotr Ilyich Tchaikovsky"
+  },
+  {
+    "name": "/images/gallery/thumbnail/rusalka_01.png",
+    "ori": "/images/gallery/popup/rusalka_01.jpg",
+    "oriWebp": "/images/gallery/popup/rusalka_01.webp",
+    "alt": "photo name",
+    "title": "Rusalka",
+    "artist": "Antonín Dvořák"
+  },
+  {
+    "name": "/images/gallery/thumbnail/rusalka_02.png",
+    "ori": "/images/gallery/popup/rusalka_02.jpg",
+    "oriWebp": "/images/gallery/popup/rusalka_02.webp",
+    "alt": "photo name",
+    "title": "Rusalka",
+    "artist": "Antonín Dvořák"
+  },
+  {
+    "name": "/images/gallery/thumbnail/salome_01.png",
+    "ori": "/images/gallery/popup/salome_01.jpg",
+    "oriWebp": "/images/gallery/popup/salome_01.webp",
+    "alt": "photo name",
+    "title": "Salome",
+    "artist": "Richard Strauss"
+  },
+  {
+    "name": "/images/gallery/thumbnail/simplicius_01.png",
+    "ori": "/images/gallery/popup/simplicius_01.jpg",
+    "oriWebp": "/images/gallery/popup/simplicius_01.webp",
+    "alt": "photo name",
+    "title": "Simplicius Simplicissimus",
+    "artist": "Karl Hartmann"
+  },
+  {
+    "name": "/images/gallery/thumbnail/simplicius_02.png",
+    "ori": "/images/gallery/popup/simplicius_02.jpg",
+    "oriWebp": "/images/gallery/popup/simplicius_02.webp",
+    "alt": "photo name",
+    "title": "Simplicius Simplicissimus",
+    "artist": "Karl Hartmann"
+  },
+  {
+    "name": "/images/gallery/thumbnail/tosca_01.png",
+    "ori": "/images/gallery/popup/tosca_01.jpg",
+    "oriWebp": "/images/gallery/popup/tosca_01.webp",
+    "alt": "photo name",
+    "title": "Tosca",
+    "artist": "Giacomo Puccini"
+  },
+  {
+    "name": "/images/gallery/thumbnail/tosca_02.png",
+    "ori": "/images/gallery/popup/tosca_02.jpg",
+    "oriWebp": "/images/gallery/popup/tosca_02.webp",
+    "alt": "photo name",
+    "title": "Tosca",
+    "artist": "Giacomo Puccini"
+  },
+  {
+    "name": "/images/gallery/thumbnail/tosca_03.png",
+    "ori": "/images/gallery/popup/tosca_03.jpg",
+    "oriWebp": "/images/gallery/popup/tosca_03.webp",
+    "alt": "photo name",
+    "title": "Tosca",
+    "artist": "Giacomo Puccini"
+  },
+  {
+    "name": "/images/gallery/thumbnail/turandot_01.png",
+    "ori": "/images/gallery/popup/turandot_01.jpg",
+    "oriWebp": "/images/gallery/popup/turandot_01.webp",
+    "alt": "photo name",
+    "title": "Turandot",
+    "artist": "Giacomo Puccini"
+  },
+  {
+    "name": "/images/gallery/thumbnail/turandot_02.png",
+    "ori": "/images/gallery/popup/turandot_02.jpg",
+    "oriWebp": "/images/gallery/popup/turandot_02.webp",
+    "alt": "photo name",
+    "title": "Turandot",
+    "artist": "Giacomo Puccini"
+  },
+  {
+    "name": "/images/gallery/thumbnail/ballo_01.png",
+    "ori": "/images/gallery/popup/ballo_01.jpg",
+    "oriWebp": "/images/gallery/popup/ballo_01.webp",
+    "alt": "photo name",
+    "title": "Un ballo in maschera",
+    "artist": "Giuseppe Verdi"
+  },
+  {
+    "name": "/images/gallery/thumbnail/ballo_02.png",
+    "ori": "/images/gallery/popup/ballo_02.jpg",
+    "oriWebp": "/images/gallery/popup/ballo_02.webp",
+    "alt": "photo name",
+    "title": "Un ballo in maschera",
+    "artist": "Giuseppe Verdi"
+  },
+  {
+    "name": "/images/gallery/thumbnail/ballo_03.png",
+    "ori": "/images/gallery/popup/ballo_03.jpg",
+    "oriWebp": "/images/gallery/popup/ballo_03.webp",
+    "alt": "photo name",
+    "title": "Un ballo in maschera",
+    "artist": "Giuseppe Verdi"
+  },
+  {
+    "name": "/images/gallery/thumbnail/ballo_04.png",
+    "ori": "/images/gallery/popup/ballo_04.jpg",
+    "oriWebp": "/images/gallery/popup/ballo_04.webp",
+    "alt": "photo name",
+    "title": "Un ballo in maschera",
+    "artist": "Giuseppe Verdi"
+  },
+  {
+    "name": "/images/gallery/thumbnail/werther_01.png",
+    "ori": "/images/gallery/popup/werther_01.jpg",
+    "oriWebp": "/images/gallery/popup/werther_01.webp",
+    "alt": "photo name",
+    "title": "Werther",
+    "artist": "Jules Massenet"
+  },
+  {
+    "name": "/images/gallery/thumbnail/werther_02.png",
+    "ori": "/images/gallery/popup/werther_02.jpg",
+    "oriWebp": "/images/gallery/popup/werther_02.webp",
+    "alt": "photo name",
+    "title": "Werther",
+    "artist": "Jules Massenet"
+  }
+]
