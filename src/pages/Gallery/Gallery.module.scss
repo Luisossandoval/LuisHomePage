@@ -1,6 +1,8 @@
 .card {
   margin-bottom: 3em;
   .img_content {
+    border-radius: 0.5rem;
+    overflow: hidden;
     img {
       width: 100%;
     }
