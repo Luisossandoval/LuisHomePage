@@ -1,5 +1,8 @@
 .navbar {
-  background-color: #0e0e1a;
+  background-color: hsl(240, 30%, 8%);
+  position: fixed !important;
+  width: 100%;
+  z-index: 10000;
 }
 
 .logo {
